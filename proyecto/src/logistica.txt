@@ -1,0 +1,5 @@
+BuenosAires SaoPaulo 10 15 20 50
+BuenosAires Lima 15 20 30 70
+Lima Quito 10 12 15 20
+Quito SaoPaulo 20 25 30 60
+SaoPaulo Lima 18 22 25 50
